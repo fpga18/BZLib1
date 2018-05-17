@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BZLib1_Example' do
+  pod 'BZLib1', :path => '../'
+
+  target 'BZLib1_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
