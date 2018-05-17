@@ -1,0 +1,23 @@
+{
+  "name": "BZLib1",
+  "version": "0.1.0",
+  "summary": "A short description of BZLib1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fpga18/BZLib1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fpga18": "413045950@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/fpga18/BZLib1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BZLib1/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h"
+}
